@@ -1,3 +1,10 @@
 songss
 we use the git pull which is combination
-og git fetch and git merge
+of git fetch and git merge
+using git gui&
+where & gives to process continuously in bash
+anf GUI 
+
+gitk& shows which one is committed and when
+
+
